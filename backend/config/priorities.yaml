@@ -1,0 +1,13 @@
+priorities:
+  - id: "low"
+    name: "Low Priority"
+    sla_hours: 168  # 7 days
+    color: "#28a745"
+  - id: "medium"
+    name: "Medium Priority"
+    sla_hours: 72   # 3 days
+    color: "#ffc107"
+  - id: "high"
+    name: "High Priority"
+    sla_hours: 24   # 1 day
+    color: "#dc3545"

@@ -1,0 +1,8 @@
+features:
+  voice_input: false
+  ai_classification: true
+  auto_assignment: true
+  email_notifications: false
+  sms_notifications: false
+  advanced_analytics: false
+  bulk_operations: false

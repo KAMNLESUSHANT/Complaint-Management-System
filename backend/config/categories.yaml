@@ -1,0 +1,22 @@
+
+categories:
+  - id: "water_supply"
+    name: "Water Supply Issues"
+    keywords: ["water", "tap", "supply", "leak"]
+    department: "water_dept"
+    auto_priority: "medium"
+  - id: "road_maintenance"
+    name: "Road Maintenance"
+    keywords: ["road", "pothole", "street", "repair"]
+    department: "public_works"
+    auto_priority: "high"
+  - id: "waste_management"
+    name: "Waste Management"
+    keywords: ["garbage", "trash", "waste", "collection"]
+    department: "sanitation"
+    auto_priority: "medium"
+  - id: "electrical"
+    name: "Electrical Issues"
+    keywords: ["power", "electricity", "outage", "pole"]
+    department: "electrical"
+    auto_priority: "high"
